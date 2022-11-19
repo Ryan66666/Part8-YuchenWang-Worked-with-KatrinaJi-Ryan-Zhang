@@ -1,4 +1,4 @@
-# Part8-YuchenWang-Worked-with-KatrinaJi
+# Part8-YuchenWang-Worked-with-KatrinaJi & Ryan Zhang
 University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2b
 
 ### Teammate: Yuchen Wang, Katrina Ji
